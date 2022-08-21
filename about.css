@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color:rgb(0, 0, 0);
+    text-decoration: underline;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.page-section{
+    padding: 6rem;
+    background-image: linear-gradient(45deg,rgb(101, 204, 245),rgb(240, 180, 82));
+    background-size: cover;
+
+}
+.section-heading{
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+.section-subheading{
+    margin-bottom: 4rem;
+    color: aquamarine;
+}
+#main-head{
+    height: calc(100vh - 54px);
+    background-color:grey;
+    background-size: cover;
+}
